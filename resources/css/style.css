@@ -8,10 +8,24 @@ body{
 .main-title{
 	font-size: 50px;
 }
+
 .donwload{
 	color: aquamarine;
 } 
 
-h1{
+.sub-title{
+	font-family: Verdana;
+	font-size: 42px;
+	font-weight: 300;
+}
 
+h4{
+	color: grey;
+	font-size: 21px;
+}
+
+footer{
+	text-align: right;
+	color: grey;
+	font-size: 21px;
 }
